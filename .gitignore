@@ -1,0 +1,41 @@
+# OS metadata
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE & Editors
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+dist/
+build/
+.env
+.env.local
+
+# Java
+bin/
+*.class
+*.jar
+*.war
+.gradle/
+target/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+
+# Logs & temp
+*.log
+.tmp/
